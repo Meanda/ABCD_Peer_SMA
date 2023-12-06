@@ -70,5 +70,5 @@ PROCESS(df, y="Intern",x="GBC_rAI",meds=c("MIL","Lone"),mods=c("NEON"),mod.type=
 PROCESS(df, y="Extern",x="GBC_rAI",meds=c("MIL","Lone"),mods=c("NEON"),mod.type="2way",mod.path=c("m-y"),ci="boot",nsim=5000,seed=1)
 PROCESS(df, y="general",x="GBC_rAI",meds=c("MIL","Lone"),mods=c("NEON"),mod.type="2way",mod.path=c("m-y"),covs=c("Age","Edu","PosAff","Gender"),ci="boot",nsim=5000,seed=1)
 
-#11111
+#333333
 
